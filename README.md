@@ -171,19 +171,6 @@ Execute the complete analysis pipeline:
 python src/main.py
 ```
 
-### Running Individual Components
-
-```bash
-# Data preprocessing
-python src/data/data_cleaning.py
-
-# Statistical analysis
-python src/analysis/statistical_analysis.py
-
-# Generate visualizations
-python src/visualization/charts.py
-```
-
 ### Using Jupyter Notebooks
 
 ```bash
